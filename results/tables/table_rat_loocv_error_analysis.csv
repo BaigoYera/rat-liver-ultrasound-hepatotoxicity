@@ -1,0 +1,5 @@
+Image,True_class,Predicted_class,Confidence,Severity_distance,Likely_reason
+data/MILD_1.jpeg,MILD,SEVERE,0.573,1,Adjacent severity overlap / small local training set
+data/MILD_2.jpeg,MILD,SEVERE,0.987,1,Adjacent severity overlap / small local training set
+data/MILD_7.jpeg,MILD,SEVERE,0.585,1,Adjacent severity overlap / small local training set
+data/US_17_control_3_21d.jpeg,SEVERE,MILD,0.636,1,Adjacent severity overlap / small local training set

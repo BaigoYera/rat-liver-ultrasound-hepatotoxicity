@@ -1,0 +1,7 @@
+| Comparison                              | Spearman_rho | p_value | n_groups |
+| --------------------------------------- | ------------ | ------- | -------- |
+| Model severity score vs ALT_U_L         | 0.5          | 0.667   | 3        |
+| Model severity score vs AST_U_L         | 0.5          | 0.667   | 3        |
+| Model severity score vs MDA_umol_L      | -0.5         | 0.667   | 3        |
+| Model severity score vs De_Ritis        | -0.5         | 0.667   | 3        |
+| Model severity score vs Liver_index_pct |              |         | 2        |
