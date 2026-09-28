@@ -1,0 +1,17 @@
+path,dataset,source_domain,subject_id,label
+data/ultrasound/LOW_1.jpeg,local_rat_ccl4,rat_ultrasound,LOW_1,LOW
+data/ultrasound/LOW_2.jpeg,local_rat_ccl4,rat_ultrasound,LOW_2,LOW
+data/ultrasound/LOW_3.jpeg,local_rat_ccl4,rat_ultrasound,LOW_3,LOW
+data/ultrasound/LOW_4.jpeg,local_rat_ccl4,rat_ultrasound,LOW_4,LOW
+data/ultrasound/MILD_1.jpeg,local_rat_ccl4,rat_ultrasound,MILD_1,MILD
+data/ultrasound/MILD_2.jpeg,local_rat_ccl4,rat_ultrasound,MILD_2,MILD
+data/ultrasound/MILD_3.jpeg,local_rat_ccl4,rat_ultrasound,MILD_3,MILD
+data/ultrasound/MILD_4.jpeg,local_rat_ccl4,rat_ultrasound,MILD_4,MILD
+data/ultrasound/MILD_5.jpeg,local_rat_ccl4,rat_ultrasound,MILD_5,MILD
+data/ultrasound/MILD_6.jpeg,local_rat_ccl4,rat_ultrasound,MILD_6,MILD
+data/ultrasound/MILD_7.jpeg,local_rat_ccl4,rat_ultrasound,MILD_7,MILD
+data/ultrasound/SEVERE_1.jpeg,local_rat_ccl4,rat_ultrasound,SEVERE_1,SEVERE
+data/ultrasound/SEVERE_2.jpeg,local_rat_ccl4,rat_ultrasound,SEVERE_2,SEVERE
+data/ultrasound/US_15_control_3_21d.jpeg,local_rat_ccl4,rat_ultrasound,US_15_CONTROL_3_21D,SEVERE
+data/ultrasound/US_16_control_3_21d.jpeg,local_rat_ccl4,rat_ultrasound,US_16_CONTROL_3_21D,SEVERE
+data/ultrasound/US_17_control_3_21d.jpeg,local_rat_ccl4,rat_ultrasound,US_17_CONTROL_3_21D,SEVERE
