@@ -1,0 +1,13 @@
+subject_id,group,injury_label,day,alt_u_l,ast_u_l,mda_umol_l,de_ritis,liver_index_pct,histology_score,steatosis_score,necrosis_score,inflammation_score,notes,source_file,source_sheet,source_row
+LOW_1,"CCl4,7 сутки",LOW,7,105.8,48.4,6.2,0.45746691871455575,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,6
+LOW_2,"CCl4,7 сутки",LOW,7,108.7,49.3,6.8,0.45354185832566696,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,7
+LOW_3,"CCl4,7 сутки",LOW,7,111.2,50.1,7.3,0.4505395683453237,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,8
+LOW_4,"CCl4,7 сутки",LOW,7,113.0,51.2,7.6,0.4530973451327434,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,9
+MILD_1,"CCl4,14 сутки",MILD,14,92.8,59.1,6.7,0.6368534482758621,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,10
+MILD_2,"CCl4,14 сутки",MILD,14,95.7,60.0,7.0,0.6269592476489028,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,11
+MILD_3,"CCl4,14 сутки",MILD,14,98.1,61.2,7.4,0.6238532110091743,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,12
+MILD_4,"CCl4,14 сутки",MILD,14,101.1,62.3,7.7,0.6162215628090999,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,13
+SEVERE_1,"CCl4,21 сутки",SEVERE,21,219.4,52.8,3.0,0.24065633546034637,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,14
+SEVERE_2,"CCl4,21 сутки",SEVERE,21,222.1,53.4,3.2,0.24043223773075192,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,15
+US_15_CONTROL_3_21D,"CCl4,21 сутки",SEVERE,21,224.9,54.0,3.5,0.24010671409515338,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,16
+US_16_CONTROL_3_21D,"CCl4,21 сутки",SEVERE,21,227.1,55.0,3.9,0.242184059885513,,,,,,extracted from rat-level DOCX table; liver index not present in DOCX,Дополнительные данные.docx,table_2_rat_level_biochemistry,17

@@ -1,0 +1,26 @@
+{
+  "manifest_rows": 16,
+  "model_biochemistry_rows": 12,
+  "joined_subject_ids": [
+    "LOW_1",
+    "LOW_2",
+    "LOW_3",
+    "LOW_4",
+    "MILD_1",
+    "MILD_2",
+    "MILD_3",
+    "MILD_4",
+    "SEVERE_1",
+    "SEVERE_2",
+    "US_15_CONTROL_3_21D",
+    "US_16_CONTROL_3_21D"
+  ],
+  "missing_biochemistry_for_manifest_subject_ids": [
+    "MILD_5",
+    "MILD_6",
+    "MILD_7",
+    "US_17_CONTROL_3_21D"
+  ],
+  "biochemistry_subject_ids_not_in_manifest": [],
+  "mapping_note": "CCl4 7-day rats map to LOW_1..LOW_4; CCl4 14-day rats map to MILD_1..MILD_4; CCl4 21-day rats map to SEVERE_1, SEVERE_2, US_15_CONTROL_3_21D, US_16_CONTROL_3_21D. MILD_5..MILD_7 and US_17_CONTROL_3_21D have no rat-level biochemical row in the DOCX."
+}
